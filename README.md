@@ -38,4 +38,4 @@ detection, incident response, and continuous learning.
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/marcin-pakulski/]
-- GitHub: [github.com/marcin1508]
+- GitHub: [https://www.github.com/marcin1508]
