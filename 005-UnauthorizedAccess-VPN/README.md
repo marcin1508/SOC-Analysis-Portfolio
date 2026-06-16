@@ -92,3 +92,5 @@ Do not assume - verify in logs first.
 unusual country is a strong indicator of unauthorized access 
 rather than legitimate remote work.
 
+## Screenshot
+![Alert Summary](005-vpnunauthorizedaccess.png)
