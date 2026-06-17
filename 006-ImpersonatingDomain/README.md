@@ -100,4 +100,4 @@ Lessons Learned
 Typosquatting domains often imitate legitimate organizations by registering visually similar domains and modifying infrastructure components such as MX records to facilitate phishing campaigns. Monitoring for domain impersonation and correlating email telemetry with web access logs enables analysts to quickly determine whether users interacted with malicious infrastructure and to initiate containment before further compromise occurs.
 
 Screenshot
-
+![Alert Summary](006-impersonatingdomain.png)
