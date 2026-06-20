@@ -28,6 +28,9 @@ detection, incident response, and continuous learning.
 | 003 | RDP Brute Force Detected | Brute Force | True Positive | LetsDefend |
 | 004 | SQL Injection Detected | Web Attack | True Positive | LetsDefend |
 | 005 | VPN Connection from Unauthorized Country | Unauthorized Access | True Positive | LetsDefend |
+| 006 | Impersonating Domain MX Record Change Detected | Threat Intel | True Positive | LetsDefend |
+| 007 | Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025-21298) | Malware | True Positive | LetsDefend |
+| 008 | Application Token Steal Attempt Detected | Proxy | True Positive | LetsDefend |
 
 ## Tools Used
 - LetsDefend SOC Simulator
