@@ -108,4 +108,4 @@ Lessons Learned
 Application reset tokens are highly sensitive artifacts and can be abused to gain unauthorized access to user accounts. Monitoring requests to password recovery endpoints, especially those containing reset tokens, helps identify potential account takeover attempts. Analysts should investigate the origin of such requests, validate whether tokens were used successfully, and invalidate active sessions and reset tokens immediately when suspicious activity is confirmed.
 
 Screenshot
-
+![Alert Summary](soc275.png)
