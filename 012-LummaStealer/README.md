@@ -61,3 +61,6 @@ malicious domain was clearly visible in browser history.
 Lumma Stealer is a real, current threat (infostealer malware that 
 targets credentials and crypto wallets) - good example of staying 
 aware of active malware campaigns, not just textbook scenarios.
+
+## Screenshot
+![Alert Summary](soc338.png)
