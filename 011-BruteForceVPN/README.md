@@ -63,4 +63,4 @@ the initial investigation was already done. Good example of how L1
 and L2 roles differ in a real SOC workflow.
 
 ## Screenshot
-![Alert Summary](soc250.png)
+![Alert Summary](soc210.png)
