@@ -61,3 +61,6 @@ Tier 2 - verifying and confirming L1's findings rather than starting
 analysis from scratch. Faster to complete than pure L1 alerts because 
 the initial investigation was already done. Good example of how L1 
 and L2 roles differ in a real SOC workflow.
+
+## Screenshot
+![Alert Summary](soc250.png)
