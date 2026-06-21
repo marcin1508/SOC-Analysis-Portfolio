@@ -62,3 +62,6 @@ Same pattern as the SQL Injection case - check Command History around
 the exact alert timestamp, not just for any suspicious commands. The 
 attacker's actions right after the exploit (recon commands + creating 
 a new user) is the clearest sign that RCE actually worked.
+
+## Screenshot
+![Alert Summary](soc239.png)
