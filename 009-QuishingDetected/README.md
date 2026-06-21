@@ -55,3 +55,6 @@ to stop further phishing attempts to the same account. Claire could do interacti
 
 ## Analyst Note
 Ignore emails sent from this IP.
+
+## Screenshot
+![Alert Summary](soc251.png)
