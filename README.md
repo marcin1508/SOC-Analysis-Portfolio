@@ -31,6 +31,13 @@ detection, incident response, and continuous learning.
 | 006 | Impersonating Domain MX Record Change Detected | Threat Intel | True Positive | LetsDefend |
 | 007 | Windows OLE Zero-Click RCE Exploitation Detected (CVE-2025-21298) | Malware | True Positive | LetsDefend |
 | 008 | Application Token Steal Attempt Detected | Proxy | True Positive | LetsDefend |
+| 009 | Quishing Detected (QR Code Phishing) | Exchange | True Positive | LetsDefend |
+| 010 | Remote Code Execution Detected in Splunk Enterprise | Unauthorized Access | True Positive | LetsDefend |
+| 011 | Possible Brute Force Detected on VPN | Brute Force | True Positive | LetsDefend |
+| 012 | Lumma Stealer - DLL Side-Loading via Click Fix Phishing | Data Leakage | True Positive | LetsDefend |
+| 013 | Utilman.exe Winlogon Exploit Attempt | LOLBin | True Positive | LetsDefend |
+| 014 | FakeGPT Malicious Chrome Extension | Data Leakage | True Positive | LetsDefend |
+| 015 | CVE-2024-49138 Exploitation Detected | Privilege Escalation | True Positive | LetsDefend |
 
 ## Tools Used
 - LetsDefend SOC Simulator
